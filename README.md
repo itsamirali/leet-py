@@ -28,7 +28,7 @@ Each solution file is named according to the problem number or title.
 2. **Navigate to the appropriate directory** based on the problem's difficulty.
 3. **Run the solution** using Python:
    ```bash
-   python3.11 name_of_the_file.py
+   python3.11 file_name.py
    ```
 
 ## Contributing
